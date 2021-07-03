@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+
+    <title>Engenharia de Computação FURG</title>
+
+    <link href="../style.css" rel="stylesheet" type="text/css" />
+		<link rel="icon" href="../assets/favicon.png" type="image/png">
+  </head>
+  <body>
+
+    <nav class="nav-bar">
+      <a class="logo">ECOMP</a>
+      <div class="nav-items">
+        <a class="nav-item" href="../index.html">
+          Inicio
+        </a>
+        <a class="nav-item active" href="#">
+          QSL
+        </a>
+        <a class="nav-item" href="professores.html">
+          Professores
+        </a>
+        <a class="nav-item" href="contato.html">
+          Contato
+        </a>
+      </div>
+    </nav>
+
+    <header class="container mb-0">
+      <small>ECOMP > QSL</small>
+
+      <h3 class="text-center text-light m-0 text-green">Quadro de Sequência Lógica</h3>
+			<h1 class="text-center text-bold m-0" style="margin-bottom:45px;">QSL</h1>
+    </header>
+
+		<main class="container ml-1 mr-1 mt-0">
+      <div class="card shadow">
+        <div style="overflow-x:auto;">
+          <table class="qsl">
+            <tbody>
+              <tr>
+                <th colspan=2>Série 1</th>
+                <th colspan=2>Série 2</th>
+                <th colspan=2>Série 3</th>
+                <th colspan=2>Série 4</th>
+                <th colspan=2>Série 5</th>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </main>
+
+    <footer>
+      <p>
+        Desenvolvido por
+        <a href="https://github.com/Nicolasbort" target="_blank">
+          Nicolas Bortoluzzi
+        </a>
+        e
+        <a href="https://github.com/iagobalmeida" target="_blank">
+          Iago B. Almeida.
+        </a>
+				<br/>
+				Grupo
+				<a href="https://github.com/Miscere" target="_blank">
+					Miscere
+				</a>
+      </p>
+    </footer>
+		
+		<!-- Modal -->
+    <div class="modal-container hidden" id="modal_disciplinas" onclick="backdropCloseModal()">
+      <div class="card shadow m-auto">
+        <div class="card-title">
+          <h3 class="m-0" id="disciplina"></h3>
+          <a class="modal-close" onclick="closeModal('#modal_disciplinas')"></a>
+        </div>
+        <div class="card-body">
+          <div class="row">
+            <div class="col text-center">
+              <p class="text-bold mb-0">
+                Série
+              </p>
+              <span id="serie"></span>
+            </div>
+            <div class="col text-center">
+              <p class="text-bold mb-0">
+                Tipo
+              </p>
+              <span id="type"></span>
+            </div>
+            <div class="col text-center">
+              <p class="text-bold mb-0">
+                Horas
+              </p>
+              <span id="horas"></span>
+            </div>
+            <div class="col text-center">
+              <p class="text-bold mb-0">
+                Créditos
+              </p>
+              <span id="creditos"></span>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col">
+              <p class="text-bold mb-0">
+                Ementa
+              </p>
+              <p id="ementa"  class="text-justify"></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+		<!-- End Modal -->
+
+    <script src="../script.js"></script>
+		<script>
+			window.onload = function() {
+				readTextFile("../assets/qsl.json", function(json) {
+					let data = JSON.parse(json);
+					populateQSL(data);
+				});
+			}
+		</script>
+		
+  </body>
+</html>

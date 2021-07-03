@@ -1,0 +1,463 @@
+{
+	"all": [
+		{
+			"name": "Alessandro de Lima Bicho",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Atividades de Integração Curricular IV",
+				"Sistemas Gráficos",
+				"Tópicos em Sistemas Gráficos"
+			] 
+		},
+		{
+			"name": "Andre Luís Castro de Freitas",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Projeto e Desenvolvimento de Software I"
+			] 
+		},
+		{
+			"name": "Andre Prisco Vargas",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Projeto e Desenvolvimento de Software II"
+			] 
+		},
+		{
+			"name": "Bruno Lopes Dalmazo",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Sistemas Distribuídos"
+			] 
+		},
+		{
+			"name": "Cleo Zanella Billa",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Algoritmos e Estruturas de Dados I",
+				"Estágio Supervisionado em Engenharia da Computação",
+				"Projeto de Graduação em Engenharia de Computação I",
+				"Projeto de Graduação em Engenharia de Computação II"
+			] 
+		},
+		{
+			"name": "Cristiane Gularte Quintana",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Fundamentos de Administração"
+			] 
+		},
+		{
+			"name": "Cristina Arthmar Mentz Albrecht",
+			"titulacao": "Doutorado",
+			"vinculo": "Substituto",
+			"disciplinas": [
+				"Fundamentos de Administração"
+			] 
+		},
+		{
+			"name": "Denise Maria Varella Martinez",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Cálculo Diferencial e Integral I"
+			] 
+		},
+		{
+			"name": "Diana Francisca Adamatti",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Sistemas para Internet II",
+				"Tópicos em Sistemas Inteligentes"
+			] 
+		},
+		{
+			"name": "Edite Taufer",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Geometria Analítica e Álgebra Linear"
+			] 
+		},
+		{
+			"name": "Eduardo Nunes Borges",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Algoritmos e Estruturas de Dados II"
+			] 
+		},
+		{
+			"name": "Elisabete Andrade Longaray",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Inglês Instrumental: Leitura"
+			] 
+		},
+		{
+			"name": "Emanuel da Silva Diaz Estrada",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Atividades de Integração Curricular II",
+				"Matemática Discreta"
+			] 
+		},
+		{
+			"name": "Errol Fernando Zepka Pereira Junior",
+			"titulacao": "Mestrado",
+			"vinculo": "Substituto",
+			"disciplinas": [
+				"Fundamentos de Administração"
+			] 
+		},
+		{
+			"name": "Ewerson Luiz de Souza Carvalho",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Arquitetura de Computadores",
+				"Estágio Supervisionado em Engenharia da Computação",
+				"Introdução à Engenharia da Computação",
+				"Organização de Computadores",
+				"Projeto de Graduação em Engenharia de Computação I"
+			] 
+		},
+		{
+			"name": "Fabricio Ferrari",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Física Geral - I"
+			] 
+		},
+		{
+			"name": "Gisele Moraes Simas",
+			"titulacao": "Mestrado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Sistemas Robóticos",
+				"Tópicos em Sistemas Robóticos"
+			] 
+		},
+		{
+			"name": "Glauber Acunha Goncalves",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Atividade de Integração Curricular I",
+				"Sistemas Gráficos",
+				"Tópicos em Sistemas de Informação"
+			] 
+		},
+		{
+			"name": "Helida Salles Santos",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Linguagens Formais e Teoria da Computação"
+			] 
+		},
+		{
+			"name": "Joaquin Ariel Moron Villarreyes",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Fundamentos de Química"
+			] 
+		},
+		{
+			"name": "Jovania Menezes Dias",
+			"titulacao": "Graduação",
+			"vinculo": "Substituto",
+			"disciplinas": [
+				"Tópicos Avançados em Sistemas para a Internet"
+			] 
+		},
+		{
+			"name": "Julian Mussi Ores",
+			"titulacao": "Graduação",
+			"vinculo": "Substituto",
+			"disciplinas": [
+				"Inglês Instrumental: Expressão Oral"
+			] 
+		},
+		{
+			"name": "Jurselem Carvalho Perez",
+			"titulacao": "Mestrado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Cálculo Diferencial e Integral II"
+			] 
+		},
+		{
+			"name": "Karen Melo da Silva",
+			"titulacao": "Mestrado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Desenho Técnico"
+			] 
+		},
+		{
+			"name": "Karina dos Santos Machado",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Atividades de Integração Curricular III",
+				"Descoberta de Conhecimento em Bancos de Dados"
+			] 
+		},
+		{
+			"name": "Leonardo Lisboa Pereira",
+			"titulacao": "Mestrado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Gerenciamento de Empresas"
+			] 
+		},
+		{
+			"name": "Leonardo Ramos Emmendorfer",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				 "Sistemas Inteligentes"
+			] 
+		},
+		{
+			"name": "Luciano Maciel Ribeiro",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Tópicos Especiais em Computação"
+			] 
+		},
+		{
+			"name": "Luis Dias Almeida",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Física Geral - II"
+			] 
+		},
+		{
+			"name": "Maicon Soares Moreira",
+			"titulacao": "Mestrado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Mecânica do Corpo Rígido e dos Fluidos"
+			] 
+		},
+		{
+			"name": "Marcelo de Gomensoro Malheiros",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Algoritmos e Estruturas de Dados I",
+				"Compiladores"
+			] 
+		},
+		{
+			"name": "Marcelo Rita Pias",
+			"titulacao": "Mestrado",
+			"vinculo": "Substituto",
+			"disciplinas": [
+				"Sistemas Microprocessados",
+				"Tópicos em Sistemas Microprocessados"
+			] 
+		},
+		{
+			"name": "Marcio Nora Barbosa",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Economia"
+			] 
+		},
+		{
+			"name": "Mario Rocha Retamoso",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Geometria Analítica e Álgebra Linear"
+			] 
+		},
+		{
+			"name": "Ozelito Possidonio de Amarante Junior",
+			"titulacao": "Graduação",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Ciências do Ambiente"
+			] 
+		},
+		{
+			"name": "Paulo Lilles Jorge Drews Junior",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Tópicos em Sistemas Robóticos"
+			] 
+		},
+		{
+			"name": "Pedro de Botelho Marcos",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Redes de Computadores",
+				"Sistemas Operacionais",
+				"Tópicos em Sistemas Distribuídos"
+			] 
+		},
+		{
+			"name": "Rafael Alceste Berri",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Linguagens de Programação",
+				"Matemática Discreta"
+			] 
+		},
+		{
+			"name": "Rafael Augusto Penna dos Santos",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Introdução à Engenharia da Computação",
+				"Projeto e Desenvolvimento de Software II"
+			] 
+		},
+		{
+			"name": "Rafael Budim Schvittz",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Sistemas Digitais"
+			] 
+		},
+		{
+			"name": "Raquel Pereira Pontes",
+			"titulacao": "Mestrado",
+			"vinculo": "Substituto",
+			"disciplinas": [
+				"Economia"
+			] 
+		},
+		{
+			"name": "Ricardo Nagel Rodrigues",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Sistemas Gráficos"
+			] 
+		},
+		{
+			"name": "Rodrigo Andrade de Bem",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Algoritmos e Estruturas de Dados II",
+				"Atividade de Integração Curricular I",
+				"Tópicos Avançados em Sistemas para a Internet",
+				"Tópicos em Sistemas Gráficos"
+			] 
+		},
+		{
+			"name": "Rodrigo Zelir Azzolin",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Sistemas de Controle"
+			] 
+		},
+		{
+			"name": "Rui Carlos Medeiros Alves Sobrinho",
+			"titulacao": "Doutorado",
+			"vinculo": "Substituto",
+			"disciplinas": [
+				"Fundamentos de Química"
+			] 
+		},
+		{
+			"name": "Sebastiao Cicero Pinheiro Gomes",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Cálculo Numérico Computacional"
+			] 
+		},
+		{
+			"name": "Silvia Silva da Costa Botelho",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Sistemas Inteligentes",
+				"Tópicos em Sistemas Robóticos"
+			] 
+		},
+		{
+			"name": "Stephanie Loi Briao",
+			"titulacao": "",
+			"vinculo": "Substituto",
+			"disciplinas": [
+				"Cálculo Numérico Computacional"
+			] 
+		},
+		{
+			"name": "Vagner Santos da Rosa",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Sistemas Operacionais"
+			] 
+		},
+		{
+			"name": "Vinicius Ferreira Laner",
+			"titulacao": "Doutorado",
+			"vinculo": "Substituto",
+			"disciplinas": [
+				"Direito e Legislação"
+			] 
+		},
+		{
+			"name": "Vinicius Menezes de Oliveira",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Sistemas Robóticos"
+			] 
+		},
+		{
+			"name": "Vitor Irigon Gervini",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Circuitos Elétricos e Eletrônica",
+				"Tópicos em Controle Avançado"
+			] 
+		},
+		{
+			"name": "Viviane Leite Dias de Mattos",
+			"titulacao": "Doutorado",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"Probabilidade e Estatística Aplicada à Engenharia"
+			] 
+		},
+		{
+			"name": "William Dias Silveira",
+			"titulacao": "Graduação",
+			"vinculo": "Efetivo",
+			"disciplinas": [
+				"LIBRAS I",
+				"LIBRAS II"
+			] 
+		}
+	]
+}

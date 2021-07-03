@@ -1,0 +1,900 @@
+{
+	"0": [
+		{
+			"colspan": 2,
+			"name": "Algor. Estr. Dados I",
+      "name_full": "Algoritmos e Estruturas de Dados I",
+      "ementa": "Hardware e software. Noções básicas de arquitetura e organização de computadores. Formas de representação de algoritmos: pseudocódigo e fluxogramas. Constantes, variáveis e expressões. Tipos de dados: primitivos e do usuário. Estruturas de dados básicas: arranjos e registros. Entrada e saída. Estruturas de controle de fluxo. Operadores lógicos, relacionais e aritméticos. Modularização. Funções e procedimentos. Passagem de parâmetros. Manipulação de cadeias de caracteres. Recursão. Arquivos de registros e de texto. Ponteiros e alocação dinâmica de memória. Noções de tipos abstratos de dados.",
+			"type": "Anual",
+			"hours": 180,
+			"class": "mandatory",
+			"serie": 1
+		},
+		{
+			"colspan": 2,
+			"name": "Lin. For. Teo. Comp.",
+      "name_full": "Linguagens Formais e Teoria da Computação",
+      "ementa": "Linguagens. Autômatos finitos. Autômatos com pilha. Gramáticas. Formas normais. Hierarquia de Chomsky. Gramáticas LL(k) e LR(k). Classes de programas e máquinas simples. Equivalência e correção de programas. Computabilidade: máquina de Turing e variantes. Tese de Church-Turing. Decidibilidade. Problema da parada. Redução de problemas.",
+			"type": "Anual",
+			"hours": 90,
+			"class": "mandatory",
+			"serie": 2
+		},
+		{
+			"colspan": 2,
+			"name": "Proj. Des. Softw. I",
+      "name_full": "Projeto e Desenvolvimento de Software I",
+      "ementa": "Interfaces e arquiteturas de SGBD. Independência de dados. Modelagem de dados. Integridade. Linguagens de manipulação e consulta. Projeto de banco de dados. Modelagem de sistemas de informação. Conectividade com banco de dados.",
+			"type": "Anual",
+			"hours": 120,
+			"class": "mandatory",
+			"serie": 3
+		},
+		{
+			"colspan": 2,
+			"name": "Sist. Distribuídos",
+      "name_full": "Sistemas Distribuídos",
+      "ementa": "Fundamentos de sistemas distribuídos. Modelos de computação distribuída. Comunicação. Nomeação. Sincronização. Replicação. Consistência. Transações. Tolerância a falhas em sistemas distribuídos. Segurança de sistemas distribuídos.",
+			"type": "Anual",
+			"hours": 120,
+			"class": "mandatory",
+			"serie": 4
+		},
+		{
+			"colspan": 1,
+			"name": "Pr. Gr. Eng. Comp. I",
+      "name_full": "Projeto de Graduação em Engenharia de Computação I",
+      "ementa": "Desenvolvimento de trabalho acadêmico: ênfase em abordagem científica. Atividades de pesquisa e desenvolvimento de projetos em Engenharia de Computação. Exercício e fixação de conteúdos de modo integrado. Estudo e aplicação de metodologias de pesquisa e normas de redação de trabalho científico. Preparativos gerais para realização do trabalho proposto. Se possível: implementação do projeto proposto; produção e apresentação de monografia (e relatório técnico, quando couber); avaliação em sessão de apresentação frente a banca.",
+			"type": "Semestral",
+			"hours": 45,
+			"class": "mandatory",
+			"serie": 5
+		},
+		{
+			"colspan": 1,
+			"name": "Pr. Gr. Eng. Comp. II",
+      "name_full": "Projeto de Graduação em Engenharia de Computação II",
+      "ementa": "Desenvolvimento de trabalho acadêmico: ênfase em abordagem científica. Atividades de pesquisa e desenvolvimento de projetos em Engenharia de Computação. Exercício e fixação de conteúdos de modo integrado. Estudo e aplicação de metodologias de pesquisa e normas de redação de trabalho científico. Implementação do projeto proposto. Produção e apresentação de monografia (e relatório técnico, quando couber). Avaliação em sessão de apresentação frente a banca.",
+			"type": "Semestral",
+			"hours": 45,
+			"class": "mandatory",
+			"serie": 5
+		},
+		{
+			"colspan": 1,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 5
+		}
+	],
+	"1": [
+		{
+			"colspan": 2,
+			"name": "Fund Química",
+      "name_full": "Fundamentos de Quimica",
+      "ementa": "Àtomo e estrutura. Tabela Periódica. Ligações Químicas. Funções Inorgânicas e Orgânicas. Acerto de coeficientes. Estequiometria. Soluções Eletroquímica. Cinética química. Equilíbrio químico. Equilíbrio iônico.",
+			"type": "Anual",
+			"hours": 60,
+			"class": "mandatory",
+			"serie": 1
+		},
+		{
+			"colspan": 2,
+			"name": "Algor. Estr. Dados II",
+      "name_full": "Algoritmos e Estruturas de Dados II",
+      "ementa": "Abstração. Tipos abstratos de dados. Recursão. Listas. Pilhas. Filas. Tabelas de dispersão. Árvores. Noções formais de algoritmos. Notação assintótica. Análise de custo: tempo e espaço. Solução de recorrências. Teorema Mestre. Árvores Binárias de Pesquisa. Grafos: representação, busca, árvore geradora mínima e menores caminhos. Pesquisa e ordenação. Técnicas para construção de algoritmos: divisão e conquista, algoritmos gulosos, programação dinâmica, backtracking. Algoritmos de busca de aproximação. Teoria da complexidade: classes de problemas.",
+			"type": "Anual",
+			"hours": 180,
+			"class": "mandatory",
+			"serie": 2
+		},
+		{
+			"colspan": 2,
+			"name": "Sist. Operacionais",
+      "name_full": "Sistemas Operacionais",
+      "ementa": "Fundamentos e estrutura dos sistemas operacionais. Gerenciamento de processos: processos, threads, sincronização, escalonamento e impasses. Gerenciamento de memória: memória principal e virtual. Gerenciamento do armazenamento: sistemas de arquivos e sistemas de entrada e saída. Segurança de sistemas operacionais.",
+			"type": "Anual",
+			"hours": 120,
+			"class": "mandatory",
+			"serie": 3
+		},
+		{
+			"colspan": 2,
+			"name": "Proj. Des. Softw. II",
+      "name_full": "Projeto e Desenvolvimento de Software II",
+      "ementa": "Gerenciamento de projetos de software. Engenharia de requisitos. Metodologias de desenvolvimento de software. Projeto de software: princípios, paradigmas e padrões. Validação e verificação de sistemas: métodos formais e teste de software.",
+			"type": "Anual",
+			"hours": 90,
+			"class": "mandatory",
+			"serie": 4
+		},
+		{
+			"colspan": 1,
+			"name": "Est. Sup. Eng. Comp.",
+      "name_full": "Estágio Supervisionado em Engenharia da Computação",
+      "ementa": "Desenvolvimento de no mínimo 180 horas de atividades planejadas, junto a organizações que exerçam atividades correlacionadas com a habilitação de Engenharia de Computação, sujeitas a supervisão e avaliação, sob regulamento próprio.",
+			"type": "Semestral",
+			"hours": 45,
+			"class": "mandatory",
+			"serie": 5
+		},
+		{
+			"colspan": 1,
+			"name": "Tóp. Esp. Comp.",
+      "name_full": "Tópicos Especiais em Computação",
+      "ementa": "Seminários ou preleções, oficinas ou programas de estudo ou pesquisa, enquadramento de atividades diversas de valor acadêmico e didático em Computação ou aplicações, relacionados com: inovações tecnológicas, resultados de pesquisas de vanguarda; aplicações específicas ou aprofundamento de temas de interesse comum de professores e alunos do curso.",
+			"type": "Semestral",
+			"hours": 45,
+			"class": "optional",
+			"serie": 5
+		}
+	],
+	"2": [
+		{
+			"colspan": 2,
+			"name": "G. A. A. L",
+      "name_full": "Geometria Analítica e Álgebra Linear",
+      "ementa": "Geometria Analítica: vetores (Aspectos Geométricos); Sistemas de equações lineares; Vetores (aspectos algébricos); produtos; estudo da reta e estudo do plano; curvas cônicas e superfícies quádricas. Álgebra Linear: espaços vetoriais; transformações lineares; diagonalização de operadores lineares; equação geral do 2º grau a duas e três variáveis.",
+			"type": "Anual",
+			"hours": 120,
+			"class": "mandatory",
+			"serie": 1
+		},
+		{
+			"colspan": 2,
+			"name": "Ati. Int. Curr. II",
+      "name_full": "Atividades de Integração Curricular II",
+      "ementa": "Desenvolvimento pelos estudantes, sob orientação, de trabalhos acadêmicos diversos, incluindo aplicações de pequeno e médio porte, em princípio em equipes. Os projetos deverão ter requisitos definidos dentro de critérios de exeqüibilidade acadêmica e cronológica. Realização de trabalho conjugado entre os docentes da série, visando nivelar percepções e compatibilizar procedimentos. Prescrição de recuperação de conteúdos, para eventuais falhas de cobertura de tópicos identificados como essenciais.",
+			"type": "Anual",
+			"hours": 60,
+			"class": "mandatory",
+			"serie": 2
+		},
+		{
+			"colspan": 2,
+			"name": "Sist. Digitais",
+      "name_full": "Sistemas Digitais",
+      "ementa": "Famílias lógicas. Circuitos combinacionais. Circuitos seqüenciais. Projeto e síntese de circuitos digitais. Dispositivos lógicos programáveis: FPGA, CPLD, PLA. Microcontroladores. Introdução a linguagens de descrição de hardware.",
+			"type": "Anual",
+			"hours": 120,
+			"class": "mandatory",
+			"serie": 3
+		},
+		{
+			"colspan": 2,
+			"name": "Sist. Gráficos",
+      "name_full": "Sistemas Gráficos",
+      "ementa": "Processamento de sinais e imagens: introdução e conceitos. Sinais e sistemas contínuos e discretos. Representação de sinais no domínio do tempo e da freqüência. Transformada discreta de Fourier. Transformada rápida de Fourier. Filtros digitais. Convolução. Imagem digital: formatos, estatística e descrição da imagem. Teoria das cores. Transformadas de imagens. Realce. Filtragem e restauração. Introdução à computação gráfica. Dispositivos gráficos. Transformações geométricas 2D e 3D. Transformações para visualização. Câmera vitual. Rasterização, recorte e seleção. Iluminação e textura. Noções de animação. Introdução à realidade virtual. Renderização em tempo real. Visão estereoscópica. Hardware para realidade virtual. Realidade aumentada. Realidade virtual colaborativa e multimídia.",
+			"type": "Anual",
+			"hours": 90,
+			"class": "mandatory",
+			"serie": 4
+		},
+		{
+			"colspan": 1,
+			"name": "Tóp. Sist. Distr.",
+      "name_full": "Tópicos em Sistemas Distribuídos",
+      "ementa": "Seminários ou preleções, oficinas ou programas de estudo ou pesquisa, enquadramento de atividades diversas de valor acadêmico e didático em Automação ou aplicações, relacionados com: inovações tecnológicas, resultados de pesquisas de vanguarda; aplicações específicas ou aprofundamento na área de Sistemas Distribuídos.",
+			"type": "Semestral",
+			"hours": 45,
+			"class": "optional",
+			"serie": 5
+		},
+		{
+			"colspan": 1,
+			"name": "",
+      "name_full": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 5
+		}
+	],
+	"3": [
+		{
+			"colspan": 2,
+			"name": "Cál. Dif. Int. I",
+      "name_full": "Cálculo Diferencial e Integral I",
+      "ementa": "Funções reais de uma variável. Limites. Assíntotas. Continuidade. Derivadas. Diferencial. Integrais. Funções no R­n. Diferencial total. Extremos de funções de duas variáveis. Integração múltipla. Cálculo de áreas e volumes.",
+			"type": "Anual",
+			"hours": 120,
+			"class": "mandatory",
+			"serie": 1
+		},
+		{
+			"colspan": 2,
+			"name": "Mec. Cor. Rig. Flui.",
+      "name_full": "Mecânica do Corpo Rígido e dos Fluidos",
+      "ementa": "Estática e dinâmica dos pontos materiais e do corpo rígido. Equilíbrio em duas ou três dimensões. Forças distribuídas. Centróides. Baricentros. Momento de inércia. Análise de estruturas. Treliças, vigas e cabos. Método dos trabalhos virtuais. Mecânica dos fluidos. Fluidostática. Equação da massa e da energia. Equação da quantidade de movimento linear a e angular. Escoamento. Transferência de calor.",
+			"type": "Anual",
+			"hours": 120,
+			"class": "mandatory",
+			"serie": 2
+		},
+		{
+			"colspan": 2,
+			"name": "Ati. Int. Curr. III",
+      "name_full": "Atividades de Integração Curricular III",
+      "ementa": "Desenvolvimento pelos estudantes, sob orientação, de trabalhos acadêmicos diversos, incluindo aplicações de pequeno e médio porte, em princípio em equipes. Os projetos deverão ter requisitos definidos dentro de critérios de exeqüibilidade acadêmica e cronológica. Realização de trabalho conjugado entre os docentes da série, visando nivelar percepções e compatibilizar procedimentos. Prescrição de recuperação de conteúdos, para eventuais falhas de cobertura de tópicos identificados como essenciais.",
+			"type": "Anual",
+			"hours": 60,
+			"class": "mandatory",
+			"serie": 3
+		},
+		{
+			"colspan": 2,
+			"name": "Ati. Int. Curr. IV",
+      "name_full": "Atividades de Integração Curricular IV",
+      "ementa": "Desenvolvimento pelos estudantes, sob orientação, de trabalhos acadêmicos diversos, incluindo aplicações de pequeno e médio porte, em princípio em equipes. Os projetos deverão ter requisitos definidos dentro de critérios de exeqüibilidade acadêmica e cronológica. Realização de trabalho conjugado entre os docentes da série, visando nivelar percepções e compatibilizar procedimentos. Prescrição de recuperação de conteúdos, para eventuais falhas de cobertura de tópicos identificados como essenciais.",
+			"type": "Anual",
+			"hours": 60,
+			"class": "mandatory",
+			"serie": 4
+		},
+		{
+			"colspan": 1,
+			"name": "Tóp. Sist. Rob.",
+      "name_full": "Tópicos em Sistemas Robóticos",
+      "ementa": "Seminários ou preleções, oficinas ou programas de estudo ou pesquisa, enquadramento de atividades diversas de valor acadêmico e didático em Automação ou aplicações, relacionados com: inovações tecnológicas, resultados de pesquisas de vanguarda; aplicações específicas ou aprofundamento na área de Sistemas de Controle",
+			"type": "Semestral",
+			"hours": 45,
+			"class": "optional",
+			"serie": 5
+		},
+		{
+			"colspan": 1,
+			"name": "",
+      "name_full": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 5
+		}
+	],
+	"4": [
+		{
+			"colspan": 2,
+			"name": "Física Geral I",
+      "name_full": "Física Geral - C I",
+      "ementa": "Espaço e Tempo. Trabalho e Energia. Cinemática e Dinâmica da Partícula. Cinemática e Dinâmica do Corpo Rígido. Rotação. Oscilações. Teoria Cinética dos Gases e Termodinâmica. Termometria e Calorimetria",
+			"type": "Anual",
+			"hours": 120,
+			"class": "mandatory",
+			"serie": 1
+		},
+		{
+			"colspan": 2,
+			"name": "Cál. Dif. Int. II",
+      "name_full": "Cálculo Diferencial e Integral II",
+      "ementa": "Seqüências numéricas. Séries numéricas. Séries de funções. Equações Diferencias Ordinárias. Equações Diferenciais Parciais. Transformações de Laplace. Funções de Várias Variáveis Reais. Funções Vetoriais. Integrais de Linha. Integrais de Superfície.",
+			"type": "Anual",
+			"hours": 120,
+			"class": "mandatory",
+			"serie": 2
+		},
+		{
+			"colspan": 2,
+			"name": "Cir. Elét. Eletr.",
+      "name_full": "Circuitos Elétricos e Eletrônica",
+      "ementa": "Análise de circuitos DC e transitórios. Análise de circuitos A C. Semicondutores. Diodos e aplicações. Transistores e aplicações. Amplificadores operacionais. Conversores AD/DA.",
+			"type": "Anual",
+			"hours": 120,
+			"class": "mandatory",
+			"serie": 3
+		},
+		{
+			"colspan": 2,
+			"name": "Sist. Inteligentes",
+      "name_full": "Sistemas Inteligentes",
+      "ementa": "Conceituação e histórico. Áreas de estudo da IA. Métodos de busca. Representação do conhecimento. Aplicações: jogos, sistemas especialistas. Planejamento. Redes neurais. Raciocínio e conhecimento sob incerteza. Inteligência artificial probabilística: inferência bayesiana, métodos estocásticos. Aprendizado de máquina. Computação evolutiva. Agentes inteligentes. Estado da arte e perspectivas. Aspectos filosóficos.",
+			"type": "Anual",
+			"hours": 90,
+			"class": "mandatory",
+			"serie": 4
+		},
+		{
+			"colspan": 1,
+			"name": "Tóp. Sist. Micr.",
+      "name_full": "Tópicos em Sistemas Microprocessados",
+      "ementa": "Seminários ou preleções, oficinas ou programas de estudo ou pesquisa, enquadramento de atividades diversas de valor acadêmico e didático em Computação ou aplicações, relacionados com: inovações tecnológicas, resultados de pesquisas de vanguarda; aplicações específicas ou aprofundamento na área de Sistemas Microprocessados.",
+			"type": "Semestral",
+			"hours": 45,
+			"class": "optional",
+			"serie": 5
+		},
+		{
+			"colspan": 1,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 5
+		}
+	],
+	"5": [
+		{
+			"colspan": 2,
+			"name": "Matemática Discreta",
+      "name_full": "Matemática Discreta",
+      "ementa": "Discreto vs. contínuo. Papel das estruturas discretas em computação. Funções. Relações. Conjuntos. Provas e mecanismos de provas formais: construção, contradição, indução. Definições recursivas. Lógica proposicional. Lógica de predicados. Álgebra booleana. Análise combinatória básica. Grafos e árvores.",
+			"type": "Anual",
+			"hours": 90,
+			"class": "mandatory",
+			"serie": 1
+		},
+		{
+			"colspan": 2,
+			"name": "Física Geral II",
+      "name_full": "Física Geral - C II",
+      "ementa": "A interação eletromagnética. A lei de Coulomb. Campo Elétrico. Potencial Eletrostático. Capacitância e Capacitores. Dielétricos. Corrente Elétrica. Campo Magnético. A lei de Ampère. Indução eletromagnética. A lei de Faraday. Circuitos elétricos CC e CA. Oscilações Eletromagnéticas em circuitos. Materiais magnéticos. As equações de Maxwell. Óptica geométrica. Interferência. Difração. Polarização. Princípios da Teoria Quântica. A equação de Schrödinger e a Mecânica Quântica. Sistemas Quânticos Simples. Introdução à Física do Estado Sólido. Teoria de Bandas.",
+			"type": "Anual",
+			"hours": 120,
+			"class": "mandatory",
+			"serie": 2
+		},
+		{
+			"colspan": 1,
+			"name": "Cál Num. Comp.",
+      "name_full": "Cálculo Numérico Computacional",
+      "ementa": "Introdução; solução de equações polinomiais, algébricas e transcendentes. Sistemas de equações lineares. Interpolação. Ajuste de curvas. Integração numérica. Solução numérica de equações diferenciais ordinárias.",
+			"type": "Semestral",
+			"hours": 45,
+			"class": "mandatory",
+			"serie": 3
+		},
+		{
+			"colspan": 1,
+			"name": "Dir. e Legislação",
+      "name_full": "Direito e Legislação - M",
+      "ementa": "Introdução ao Direito: o Direito e a Lei. Administração Pública e Contratos administrativos. Direito do Trabalho, Contrato de trabalho, Direitos Trabalhistas. Profissão: regulamentação, responsabilidade civil, criminal e administrativa. Direito de Autor, Marcas, Patentes e Invenções, Código do Consumidor, Transporte de cargas perigosas e produtos perecíveis. Direito Ambiental e; Perícia.",
+			"type": "Semestral",
+			"hours": 45,
+			"class": "mandatory",
+			"serie": 3
+		},
+		{
+			"colspan": 2,
+			"name": "Sist. Microprocessados",
+      "name_full": "Sistemas Microprocessados",
+      "ementa": "Paralelismo espacial e temporal. Coprocessadores, processadores de E/S. Arquiteturas escalares, vetoriais e superescalares. Arrays de processadores. Multiprocessadores. Multiprocessamento simétrico. Processadores digitais de sinais. Microcontroladores. Arquiteturas para aplicações específicas. Sistemas tempo real. Algoritmos de escalonamento. Mecanismos de comunicação e sincronização. Sistemas operacionais de tempo real. Sistemas operacionais embarcados. Processadores digitais de sinais de aplicação específica. Arquiteturas dedicadas. Sistemas on chip. Sistemas de baixo consumo.",
+			"type": "Anual",
+			"hours": 90,
+			"class": "mandatory",
+			"serie": 4
+		},
+		{
+			"colspan": 1,
+			"name": "Tóp. Av. Sist. Inter.",
+      "name_full": "Tópicos Avançados em Sistemas para a Internet",
+      "ementa": "Ambientes interativos e colaborativos na Internet. Ferramentas computacionais de apoio à programação para Internet. Frameworks e m etaframeworks . Aplicativos para Internet orientados a bancos de dados. Desenvolvimento de aplicações distribuídas baseadas na Internet",
+			"type": "Semestral",
+			"hours": 45,
+			"class": "optional",
+			"serie": 5
+		},
+		{
+			"colspan": 1,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 5
+		}
+	],
+	"6": [
+		{
+			"colspan": 2,
+			"name": "Desenho Técnico",
+      "name_full": "Desenho Técnico",
+      "ementa": "Construções geométricas. Normas para o desenho técnico. Projeção ortogonal. Teoria elementar do desenho projetivo. Perspectiva isométrica e cavaleira. Cortes.",
+			"type": "Anual",
+			"hours": 60,
+			"class": "mandatory",
+			"serie": 1
+		},
+		{
+			"colspan": 2,
+			"name": "Prob. Est. Apl. Eng.",
+      "name_full": "Probabilidade e Estatística Aplicada à Engenharia",
+      "ementa": "Conceitos Básicos de Estatística. Séries Estatísticas. Representação Gráfica. Medidas de Tendência Central. Medidas Separatrizes. Medidas de Dispersão. Medidas de Assimetria. Medidas de Curtose. Probabilidade. Variáveis Aleatórias. Distribuições de Probabilidade Discretas e Contínuas. Teoria Elementar de Amostragem. Intervalos De Confiança. Testes de Hipóteses. Teste Não Paramétrico. Análise de Variância. Análise de Regressão e Correlação.",
+			"type": "Anual",
+			"hours": 90,
+			"class": "mandatory",
+			"serie": 2
+		},
+		{
+			"colspan": 1,
+			"name": "Economia",
+      "name_full": "Economia",
+      "ementa": "Noções de economia. Elasticidade. Teoria da produção. Custos de produção. Engenharia Econômica. Equivalência. Comparação entre alternativas de investimento. Substituição de equipamentos.",
+			"type": "Semestral",
+			"hours": 45,
+			"class": "mandatory",
+			"serie": 3
+		},
+		{
+			"colspan": 1,
+			"name": "Redes de Computadores",
+      "name_full": "Redes de Computadores",
+      "ementa": "Fundamentos de redes de computadores. Modelos de referência e suas camadas. Protocolos. Segurança de redes. Gerenciamento de redes.",
+			"type": "Semestral",
+			"hours": 45,
+			"class": "mandatory",
+			"serie": 3
+		},
+		{
+			"colspan": 2,
+			"name": "Ger. de Empresas",
+      "name_full": "Gerenciamento de Empresas",
+      "ementa": "Princípios de planejamento estratégico. Noções de organização e métodos. Fundamentos de marketing. Filosofia da qualidade total. Mecanismos e procedimentos para criação de empresas. Gerência de empreendimentos em computação: aspectos específicos..",
+			"type": "Anual",
+			"hours": 60,
+			"class": "mandatory",
+			"serie": 4
+		},
+		{
+			"colspan": 1,
+			"name": "Tóp. Sist. Int.",
+      "name_full": "Tópicos em Sistemas Inteligentes",
+      "ementa": "Seminários ou preleções, oficinas ou programas de estudo ou pesquisa, enquadramento de atividades diversas de valor acadêmico e didático em Computação ou aplicações, relacionados com: inovações tecnológicas, resultados de pesquisas de vanguarda; aplicações específicas ou aprofundamento na área de Sistemas Inteligentes.",
+			"type": "Semestral",
+			"hours": 45,
+			"class": "optional",
+			"serie": 5
+		},
+		{
+			"colspan": 1,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 5
+		}
+	],
+	"7": [
+		{
+			"colspan": 1,
+			"name": "Int. Eng. Computação",
+      "name_full": "Introdução à Engenharia da Computação",
+      "ementa": "A engenharia de computação na atualidade. O curso de engenharia de computação na FURG.",
+			"type": "Semestral",
+			"hours": 30,
+			"class": "mandatory",
+			"serie": 1
+		},
+		{
+			"colspan": 1,
+			"name": "Ati. Int. Curr. I",
+      "name_full": "Atividade de Integração Curricular I",
+      "ementa": "Desenvolvimento pelos estudantes, sob orientação, de trabalhos acadêmicos diversos, incluindo aplicações de pequeno e médio porte, em princípio em equipes. Os projetos deverão ter requisitos definidos dentro de critérios de exiquibilidade acadêmica e cronológica. Realização de trabalho conjugado entre os docentes da série, visando nivelar percepções e compatibilizar procedimentos. Prescrição de recuperação de conteúdos, para eventuais falhas de cobertura de tópicos identificados como essenciais.",
+			"type": "Semestral",
+			"hours": 30,
+			"class": "mandatory",
+			"serie": 1
+		},
+		{
+			"colspan": 1,
+			"name": "Organização de Comp.",
+      "name_full": "Organização de Computadores",
+      "ementa": "Organização básica da unidade central de processamento. Conjunto, formato e armazenamento de instruções. Operação da unidade de controle. Controle microprogramado. Estrutura e função do processador. Máquinas RISC e CISC. Métodos de aumento de desempenho. Paralelismo em nível de instruções. Processadores superescalares. Noções de organização paralela.",
+			"type": "Semestral",
+			"hours": 60,
+			"class": "mandatory",
+			"serie": 2
+		},
+		{
+			"colspan": 1,
+			"name": "Arquitetura de Comp.",
+      "name_full": "Arquitetura de Computadores",
+      "ementa": "Representação de dados. Sistemas de numeração. Organização da unidade central de processamento. Sistemas de memória. Entrada e saída. Interrupções. Aritmética do computador. Conjunto de instruções e modos de endereçamento. Programação em linguagem de máquina e simbólica.",
+			"type": "Semestral",
+			"hours": 45,
+			"class": "mandatory",
+			"serie": 2
+		},
+		{
+			"colspan": 1,
+			"name": "Ling. de Programação",
+      "name_full": "Linguagens de Programação",
+      "ementa": "Classes e gerações de linguagens. Compilação, interpretação e montagem. Qualidades de linguagens e o desenvolvimento de software. Alcance e amarração. Passagem de parâmetros. Ponteiros. Classes de memória. Sistemas de Tipos. Paradigmas de programação: imperativo, funcional, lógico e orientado a objeto.",
+			"type": "Semestral",
+			"hours": 60,
+			"class": "mandatory",
+			"serie": 3
+		},
+		{
+			"colspan": 1,
+			"name": "Compiladores",
+      "name_full": "Compiladores",
+      "ementa": "Análise léxica. Análise sintática. Tradução dirigida por sintaxe. Geração de código intermediário. Ambientes de execução. Geração de código. Otimização de código.",
+			"type": "Semestral",
+			"hours": 45,
+			"class": "mandatory",
+			"serie": 3
+		},
+		{
+			"colspan": 1,
+			"name": "Fund. Adm.",
+      "name_full": " Fundamentos de Administração",
+      "ementa": "Administração como ciência. Contexto histórico e o surgimento da Teoria da Administração. As organizações como objeto da Administração. Enfoques teóricos da Administração. Funções de Administrador.",
+			"type": "Semestral",
+			"hours": 60,
+			"class": "mandatory",
+			"serie": 4
+		},
+		{
+			"colspan": 1,
+			"name": "Ciências Ambiente",
+      "name_full": "Ciências do Ambiente",
+      "ementa": "Noções gerais sobre: Ecologia (Indivíduo, População, Comunidade, Ecossistema). Ciclos Biogeoquímicos. Impacto Ambiental. Energia. Ação do homem sobre a biosfera (impactos, harmonização e estratégias alternativas).",
+			"type": "Semestral",
+			"hours": 30,
+			"class": "mandatory",
+			"serie": 4
+		},
+		{
+			"colspan": 1,
+			"name": "Tóp. Sist. Inf.",
+      "name_full": "Tópicos em Sistemas de Informação",
+      "ementa": "Seminários ou preleções, oficinas ou programas de estudo ou pesquisa, enquadramento de atividades diversas de valor acadêmico e didático em Computação ou aplicações, relacionados com: inovações tecnológicas, resultados de pesquisas de vanguarda; aplicações específicas ou aprofundamento na área de Sistemas de Informação.",
+			"type": "Semestral",
+			"hours": 45,
+			"class": "optional",
+			"serie": 5
+		},
+		{
+			"colspan": 1,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 5
+		}
+	],
+	"8": [
+		{
+			"colspan": 1,
+			"name": "Ing. Instr. Leitura",
+      "name_full": "Inglês Instrumental: Leitura",
+      "ementa": "Estudo de textos, conteúdo, estruturas fundamentais da língua. Redação. Interpretação de textos. Textos. Exercícios estruturais. Elementos de gramática.",
+			"type": "Semestral",
+			"hours": 45,
+			"class": "optional",
+			"serie": 1
+		},
+		{
+			"colspan": 1,
+			"name": "Ing. Ins. Exp. Oral",
+      "name_full": "Inglês Instrumental: Expressão Oral",
+      "ementa": "Estudos de textos técnicos-científicos. Redação. Interpretação de textos. Tradução. Resumos. Précis. Elementos de gramática.",
+			"type": "Semestral",
+			"hours": 45,
+			"class": "optional",
+			"serie": 1
+		},
+		{
+			"colspan": 2,
+			"name": "Prát. Desp. Anual",
+      "name_full": "Praticas Desportivas - Anual",
+      "ementa": "Não cadastrada.",
+			"type": "Anual",
+			"hours": 60,
+			"class": "optional",
+			"serie": 2
+		},
+		{
+			"colspan": 2,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 3
+		},
+		{
+			"colspan": 2,
+			"name": "Sistemas de Controle",
+      "name_full": "Sistemas de Controle",
+      "ementa": "Modelagem e Modelos. Tipos de Modelos. Representação de sistemas dinâmicos lineares no tempo e na freqüência. Analogias. Respostas de sistemas e simulações. Linearização de Sistemas. Identificação de Sistemas. Objetivos de controle. Introdução aos controles em malhas aberta e fechada. Análise e projeto de sistemas de controle: lugar das raízes e resposta em frequência. Ações básicas de controle: proporcional, integral e derivativa. Análise e projeto de controle clássico. Desempenho em regime transitório e permanente. Introdução aos controladores industriais.",
+			"type": "Anual",
+			"hours": 120,
+			"class": "optional",
+			"serie": 4
+		},
+		{
+			"colspan": 1,
+			"name": "Tóp Sist. Graf.",
+      "name_full": "Tópicos em Sistemas Gráficos",
+      "ementa": "Seminários ou preleções, oficinas ou programas de estudo ou pesquisa, enquadramento de atividades diversas de valor acadêmico e didático em Computação ou aplicações, relacionados com: inovações tecnológicas, resultados de pesquisas de vanguarda; aplicações específicas ou aprofundamento na área de Sistemas Gráficos.",
+			"type": "Semestral",
+			"hours": 45,
+			"class": "optional",
+			"serie": 5
+		},
+		{
+			"colspan": 1,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 5
+		}
+	],
+	"9": [
+		{
+			"colspan": 1,
+			"name": "Libras I",
+      "name_full": "Libras I",
+      "ementa": "Fundamentos linguísticos e culturais da Língua Brasileira de Sinais - Libras. Desenvolvimento de habilidades básicas expressivas e receptivas em Libras para promover a comunicação entre seus usuários. Introdução as Estudos Surdos.",
+			"type": "Semestral",
+			"hours": 60,
+			"class": "optional",
+			"serie": 1
+		},
+		{
+			"colspan": 1,
+			"name": "Libras II",
+      "name_full": "Libras II",
+      "ementa": "A Língua Brasileira de Sinais - Libras: características básicas da fonologia. Emprego das Libras em situações discursivas formais:vocabulário, morfologia, sintaxe e semântica. Prática do uso de Libras em situações discursivas mais formais.",
+			"type": "Semestral",
+			"hours": 60,
+			"class": "optional",
+			"serie": 1
+		},
+		{
+			"colspan": 2,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 2
+		},
+		{
+			"colspan": 2,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 3
+		},
+		{
+			"colspan": 2,
+			"name": "Sist. Internet II",
+      "name_full": "Sistemas para Internet II",
+      "ementa": "Programação PHP. Programação Javascript. Técnicas de desenvolvimento de aplicativos em rede: carga assíncrona, modelagem de documentos. Portabilidade entre navegadores. Abordagem de ferramentas conceituais como AJAX, DOM, XML, CSS e outros.",
+			"type": "Anual",
+			"hours": 90,
+			"class": "optional",
+			"serie": 4
+		},
+		{
+			"colspan": 1,
+			"name": "Tóp Contr. Av.",
+      "name_full": "Tópicos em Controle Avançado",
+      "ementa": "Inovações tecnológicas, resultados de pesquisas de vanguarda; aplicações específicas ou aprofundamento na área de Controle Avançado.",
+			"type": "Semestral",
+			"hours": 45,
+			"class": "optional",
+			"serie": 5
+		},
+		{
+			"colspan": 1,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 5
+		}
+	],
+	"10": [
+		{
+			"colspan": 2,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 1
+		},
+		{
+			"colspan": 2,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 2
+		},
+		{
+			"colspan": 2,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 3
+		},
+		{
+			"colspan": 2,
+			"name": "Sistemas Robóticos",
+      "name_full": "Sistemas Robóticos",
+      "ementa": "Arquiteturas robóticas. Modelos cinemáticos de robôs manipuladores. Modelagem dinâmica de robôs manipuladores. Controle de robôs manipuladores. Comportamento não-holonômico e modelagens cinemática e dinâmica de robôs móveis. Controle de robôs móveis. Planejamento de trajetórias e estimação de estado de robôs móveis. Sensoriamento robótico. Navegação robótica. Planejamento de movimento; Localização e mapeamento. Robôs de serviço",
+			"type": "Anual",
+			"hours": 90,
+			"class": "optional",
+			"serie": 4
+		},
+		{
+			"colspan": 1,
+			"name": "Des. Con. Ban. Dados",
+      "name_full": "Descoberta de Conhecimento em Bancos de Dados",
+      "ementa": "Fases do processo de descoberta de conhecimento em bancos de dados. Técnicas de pré-processamento e transformação de dados. Tarefas de mineração de dados: associação, classificação, regressão e agrupamento. Validação de modelos e interpretação de resultados.",
+			"type": "Semestral",
+			"hours": 45,
+			"class": "optional",
+			"serie": 5
+		},
+		{
+			"colspan": 1,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 5
+		}
+	],
+	"11": [
+		{
+			"colspan": 2,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 1
+		},
+		{
+			"colspan": 2,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 2
+		},
+		{
+			"colspan": 2,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 3
+		},
+		{
+			"colspan": 2,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 4
+		},
+		{
+			"colspan": 1,
+			"name": "Tóp Av. Comput I",
+      "name_full": "Tópicos Avançados em Engenharia de Computação I",
+      "ementa": "Não cadastrada.",
+			"type": "Semestral",
+			"hours": 45,
+			"class": "optional",
+			"serie": 5
+		},
+		{
+			"colspan": 1,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 5
+		}
+	],
+	"12": [
+		{
+			"colspan": 2,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 1
+		},
+		{
+			"colspan": 2,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 2
+		},
+		{
+			"colspan": 2,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 3
+		},
+		{
+			"colspan": 2,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 4
+		},
+		{
+			"colspan": 1,
+			"name": "Tóp Av. Comput II",
+      "name_full": "Tópicos Avançados em Engenharia de Computação II",
+      "ementa": "Não cadastrada.",
+			"type": "Semestral",
+			"hours": 45,
+			"class": "optional",
+			"serie": 5
+		},
+		{
+			"colspan": 1,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 5
+		}
+	],
+	"13": [
+		{
+			"colspan": 2,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 1
+		},
+		{
+			"colspan": 2,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 2
+		},
+		{
+			"colspan": 2,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 3
+		},
+		{
+			"colspan": 2,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 4
+		},
+		{
+			"colspan": 1,
+			"name": "Tóp Av. Comput III",
+      "name_full": "Tópicos Avançados em Engenharia de Computação III",
+      "ementa": "Não cadastrada.",
+			"type": "Semestral",
+			"hours": 45,
+			"class": "optional",
+			"serie": 5
+		},
+		{
+			"colspan": 1,
+			"name": "",
+			"type": "",
+			"hours": null,
+			"class": "empty",
+			"serie": 5
+		}
+	]
+}
